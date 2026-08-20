@@ -1,7 +1,6 @@
 # Test website for GitHub Pages
 
-> theleftshift.github.io/finals-countdown
-*Click here to go to the exam countdown*
+[Click here to go to the exam countdown](theleftshift.github.io/finals-countdown)
 
 ## this is a subheading 
 
